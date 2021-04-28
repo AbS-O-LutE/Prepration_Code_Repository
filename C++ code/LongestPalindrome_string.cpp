@@ -1,5 +1,6 @@
 // A O(n^2) time and O(1) space program to
 // find the longest palindromic substring
+//Also specify what is a palindromic string?
 #include <bits/stdc++.h>
 using namespace std;
 
